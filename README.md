@@ -11,3 +11,6 @@ This is Visual Model of DataBase:
 ![New](https://github.com/rudofficial/Restaurant-Application/blob/main/encji.png)
 The schema contains various keys necessary to identify our data. It also includes a supertype of the user, which in turn is the basis for the employee and the client entity.As we can see, "order" is the main entity. It includes both additions to the order (ketchup, seasonings) and data from the menu that the customer ordered. After that, the order data is transmitted for delivery. Delivery is optional and by default all orders are added without it. If you want to see DB model or scripts, you must open "DataBaseInformation" folder.
 ####
+The application has protection from "fool". For example if you want to write an empty comment, the system will not allow you to do it. You will not be able to order delivery for a product that is already being delivered etc.
+####
+Application has ~ 17 windows, which was developed in Scene Builder. Examples:
