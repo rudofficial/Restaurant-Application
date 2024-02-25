@@ -13,6 +13,6 @@ The schema contains various keys necessary to identify our data. It also include
 ####
 The application has protection from "fool". For example if you want to write an empty comment, the system will not allow you to do it. You will not be able to order delivery for a product that is already being delivered etc.
 ####
-Application has ~ 17 windows. Examples:
-###Home window:
-![Registration window](https://github.com/rudofficial/Restaurant-Application/blob/main/1.png)
+Application has ~ 7 windows. Examples:
+####Home window:
+![Home window](https://github.com/rudofficial/Restaurant-Application/blob/main/1.png)
